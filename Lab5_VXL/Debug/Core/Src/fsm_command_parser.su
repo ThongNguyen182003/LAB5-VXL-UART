@@ -1,0 +1,2 @@
+../Core/Src/fsm_command_parser.c:16:9:check_buffer_content	24	static
+../Core/Src/fsm_command_parser.c:28:6:command_parser_fsm	8	static

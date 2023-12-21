@@ -1,0 +1,3 @@
+../Core/Src/fsm_uart_communiation.c:11:6:start_timeout	1
+../Core/Src/fsm_uart_communiation.c:15:9:check_timeout	1
+../Core/Src/fsm_uart_communiation.c:22:6:uart_communiation_fsm	10
